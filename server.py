@@ -1,3 +1,4 @@
+хуй
 from flask import Flask, request, send_from_directory, jsonify, send_file
 from ultralytics import YOLO
 import numpy as np
